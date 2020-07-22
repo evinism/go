@@ -1,1 +1,1 @@
-web: bin/go --addr=:$PORT
+web: bin/go --addr=$PORT
